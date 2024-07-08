@@ -15,11 +15,11 @@ This project is a quiz application built using React, designed to provide an int
 - **React**: Frontend library for building user interfaces.
 - **JavaScript**: Programming language used for implementing functionality and logic.
 - **HTML/CSS**: Markup and styling languages for structuring and designing web pages.
-- **Open Trivia DB**: API used for fetching the trivia questions ((https://opentdb.com/api_config.php))
+- **Open Trivia DB**: API used for fetching the trivia questions (https://opentdb.com/api_config.php)
 
 ## Demo
 
-Click this link for a live demo: (https://piasr.github.io/trivia-quiz/)
+Click this link for a live demo: https://piasr.github.io/trivia-quiz/
 
 ## Site
 
