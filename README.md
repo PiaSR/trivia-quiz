@@ -1,6 +1,6 @@
 # Quiz App
 
-This project is a quiz application built using React, designed to provide an interactive quiz experience for users. The questions are fetched from the Open Trivia database (https://opentdb.com/api_config.php).
+This project is a quiz application built using React, designed to provide an interactive quiz experience for users. The questions are fetched from the Open Trivia database.
 
 ## Features
 
@@ -15,29 +15,34 @@ This project is a quiz application built using React, designed to provide an int
 - **React**: Frontend library for building user interfaces.
 - **JavaScript**: Programming language used for implementing functionality and logic.
 - **HTML/CSS**: Markup and styling languages for structuring and designing web pages.
-- **Open Trivia DB**: API used for fetching the trivia questions.
+- **Open Trivia DB**: API used for fetching the trivia questions ((https://opentdb.com/api_config.php))
 
 ## Demo
+
+Click this link for a live demo: (https://piasr.github.io/trivia-quiz/)
 
 ## Site
 
 ### Starting Screen
 
-<img width="1436" alt="Screenshot 2024-07-08 at 12 57 48" src="https://github.com/PiaSR/trivia-quiz/assets/153298855/aa6d4095-0c3d-44c1-abc1-30df8d86f3a8">
+<img width="1434" alt="Screenshot 2024-07-08 at 17 16 50" src="https://github.com/PiaSR/trivia-quiz/assets/153298855/5518cac5-bac4-4106-9cf9-5523fac06cf2">
+
 
 ### Quiz
 
-<img width="1437" alt="Screenshot 2024-07-08 at 12 58 38" src="https://github.com/PiaSR/trivia-quiz/assets/153298855/fdf0e75b-fcee-4acc-857a-cccceb2552f5">
+<img width="1430" alt="Screenshot 2024-07-08 at 17 17 06" src="https://github.com/PiaSR/trivia-quiz/assets/153298855/52372e70-d0b4-47e5-b465-8a1be1c5d922">
+
 
 ### Check Answers
 
-<img width="1434" alt="Screenshot 2024-07-08 at 12 59 19" src="https://github.com/PiaSR/trivia-quiz/assets/153298855/998b3cea-24e9-4c7f-8e78-b8bbddea49fb">
+<img width="1432" alt="Screenshot 2024-07-08 at 17 17 35" src="https://github.com/PiaSR/trivia-quiz/assets/153298855/4d684e38-9fca-4be0-9bbb-f4dccaee196c">
+
 
 ## Usage
 
 ### Getting Started
 
-1. **Home Screen**: Upon loading the application, users are greeted with a start screen featuring a title, subtitle, and a "Start Quiz" button. Clicking the button begins the quiz.
+1. **Start Screen**: Upon loading the application, users are greeted with a start screen featuring a title, subtitle, and a "Start Quiz" button. Clicking the button begins the quiz.
 
 2. **Quiz Interface**: Once the quiz starts, users see a series of questions one at a time. Each question includes multiple-choice answers.
 
